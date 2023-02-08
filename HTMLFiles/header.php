@@ -16,6 +16,7 @@
             <div class="navbar_left_content">
                 <a href="#"><h3 class="logo"><i class="fas fa-dumpster-fire"></i> <span>E-Shopper</span></h3></a>
                 <ul class="navbar-list">
+                <i class="fas fa-times" id="close"></i>
                     <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Shop</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Cart</a></li>
